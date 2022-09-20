@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/taphfjq66t8va0t5?svg=true)](https://ci.appveyor.com/project/Natalya32/debitcard)
